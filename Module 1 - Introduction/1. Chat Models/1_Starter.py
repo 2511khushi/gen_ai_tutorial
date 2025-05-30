@@ -1,6 +1,8 @@
 from dotenv import load_dotenv
 load_dotenv()
 
+# lanchain
+
 from langchain_openai import ChatOpenAI
 
 llm = ChatOpenAI(
