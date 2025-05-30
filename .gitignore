@@ -1,0 +1,11 @@
+.env
+
+/chroma_langchain_db
+/Module 1 - Introduction/4. RAGs/db
+/docarray_index
+/Module 4 - RAGs/RAG with Langchain/3. Generation/vector_db
+/.DS_Store
+/venv
+/Module 1 - Introduction/1. Chat Models/.DS_Store
+/Module 1 - Introduction/4. RAGs/.DS_Store
+Module 1 - Introduction/4. RAGs/documents/.DS_Store
